@@ -35,7 +35,7 @@ export default function App() {
     
 /**
  * Challenge: Allow the user to play a new game when the
- * button is clicked and they've already won
+ * button is clicked and they've already won game
  */
     
     function rollDice() {
